@@ -1,7 +1,7 @@
 {
   "name": "moveit-next",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "js-cookie": "^2.2.1",
+    "moveit-next": "^0.1.0",
     "next": "10.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2"
